@@ -23,3 +23,5 @@ public int[] twoSum(int[] nums, int target) {
       }
       throw new IllegalArgumentException("No two sum solution");
   }
+//time complexity: O(n)
+//space complexity: O(1)
