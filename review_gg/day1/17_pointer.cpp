@@ -28,7 +28,7 @@ int main()
 	int v[3] = {10,100,1000};
 	int *ptc;
 	//assign the address of v[0] to ptc
-	ptc = v;
+	&ptc = v;
 	for(int i=0; i<3; i++)
 	{
 		printf("Value of *ptc = %d\n", *ptc);

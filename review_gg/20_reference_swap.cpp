@@ -15,3 +15,12 @@ int main()
 	cout<<a<<" "<<b;
 	return 0;
 }
+
+/*
+Difference between pointers and references:
+1. a pointer can never be declared as void, but reference can
+2. references are less powerful than pointers, once references are created, it cant be later made to
+refer another object.
+3. references cant be NULL, but pointer can
+4. reference mush be initialized when declare, but no restrictions with pointers.
+*/
