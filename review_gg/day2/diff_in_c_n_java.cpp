@@ -29,3 +29,8 @@ class B{
 		System.out.println(a.x + " " + a.y);
 	}
 }
+
+/*
+* Java uses extends keyword for inheritence
+* In Java, methods are virtual by default. In C++, we explicitly use virtual world 
+*/
