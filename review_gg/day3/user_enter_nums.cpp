@@ -33,3 +33,4 @@ int main()
 	cout<<"Average = " << average <<"\n";
 	return 0;
 }
+

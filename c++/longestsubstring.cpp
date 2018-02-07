@@ -12,27 +12,22 @@ Goal: 寻找最长字符串
 4. 没有，j继续移动。
 len = max(len, j-i+1)
 */
-class Solution{
-	public:
-	int lengthOfLongestSubstring(string s)
-	{
-		//hashmap
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
 		unordered_map<char, int> mymap;
 		unordered_map<char, int>::iterator it;
 		int len=0, i=-1;
 		for(int j=0;j<s.length();j++)
 		{
-			//是否有重复
 			it = mymap.find(s.at(j));
 			if(it != mymap.end())
-				//有重复，移动i
 				i=std::max(it->second,i);
-			//没有重复，把新的字符加入
-			len=std:max(len,(j-i));
-
+            mymap[s.at(j)]=j;
+			len=std::max(len,(j-i));
 		}
 		return len;
-	}
+    }
 };
 
 //255 ASCII

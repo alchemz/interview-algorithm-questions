@@ -52,7 +52,7 @@ substractive notation and additive notation
 2. 将subtractive rule转换成等效的additive rule：ret = 1 + (10 - 2*1)
 
 建立一个罗马字符对应整数的hash table ht。
-当ht[s[i]] > ht[s[i-1]]，即为subtractive nontation：ret += (ht[s[i]] - 2*ht[s[i-1]])
+当ht[s[i]] > ht[s[i-1]]，即为subtractive notation：ret += (ht[s[i]] - 2*ht[s[i-1]])
 否则为additive nontation：ret+=ht[s[i]]
 http://bangbingsyb.blogspot.com/2014/11/leetcode-roman-to-integer.html
 */
@@ -68,9 +68,10 @@ public:
 		int ret =0;
 		for(int i=0; i<s.size(); i++){
 			if(hasht.count(s[i])==0) return 0;
-			ret += hasht[s[i]];
 			if(i !=0 && hasht[s[i]] > hasht[s[i-1]])
 				ret -= 2*hasht[s[i-1]];
+			else
+				ret += hasht[s[i]];
 		}
 		return rest;
 	}
