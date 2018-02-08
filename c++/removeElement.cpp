@@ -9,16 +9,22 @@ Given nums = [3,2,2,3], val = 3,
 Your function should return length = 2, with the first two elements of nums being 2.
 */
 
-class Solution{
+class Solution {
 public:
-	int removeElement(vector<int>& nums, int val){
-		int k = -1;
-		for(int i =0; i<nums.size(); i++){
-			if(nums[i] != val) 
-				nums[++k] = nums[i];
-		}
-		return k+1;
-	}	
+    int removeElement(vector<int>& nums, int val) {
+        int k=-1;
+        /*
+        1. nums is the array, val is the targeted value
+        2. find the instance of the value, couter++
+        3. iteration
+        4. return the number of instance
+        */
+        for(int i=0; i<nums.size(); i++){
+            if(nums[i] != val)
+                nums[++k]=nums[i];
+        }
+        return k+1;
+    }
 };
 
 /*
