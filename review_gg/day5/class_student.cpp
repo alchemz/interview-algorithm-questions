@@ -1,6 +1,7 @@
 //class_student.cpp
 class Student
 {
+	//members
 	string name;
 	it id;
 	int gradDate;
