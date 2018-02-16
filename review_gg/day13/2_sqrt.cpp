@@ -14,7 +14,6 @@ public:
         else{
             int start=0, end=x/2+1;
             while(start<=end){
-                int mid=(start+end)/2;  
                 if(x/mid==mid)
                     return mid;
                 else if(mid<x/mid){
