@@ -1,0 +1,11 @@
+[day12-ToDo]
+[*]Leetcode 复习归纳题型，排序，双指针，DP（动态规划），递归，
+字符串， 链表， BFS, DFS.
+[*]主要复习tagged:array,string,tree,linkedlist,math
+[*]阅读CtCl, Data Structure, Ch1.
+[*]内推+5, Application+5
+[*]Udacity Self-Driving Car Engineer Nanodegree Lesson
+[*]继续，写一个调用google poly API的 unity extension/plugin
+[*]观察一些面经。
+
+[★] 买一个咖啡机。
