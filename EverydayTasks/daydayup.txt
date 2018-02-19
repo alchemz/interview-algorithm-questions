@@ -8,4 +8,26 @@
 [*]继续，写一个调用google poly API的 unity extension/plugin
 [*]观察一些面经。
 
-[★] 买一个咖啡机。
+[day12-Done]
+[✔]Leetcode 复习归纳题型，排序，双指针，DP（动态规划），递归，
+字符串， 链表， BFS, DFS.
+[✖]主要复习tagged:array,string,tree,linkedlist,math
+[✔]阅读CtCl, Data Structure, Ch1.
+[✔]内推+5, Application+5
+[✖]Udacity Self-Driving Car Engineer Nanodegree Lesson
+[✔]继续，写一个调用google poly API的 unity extension/plugin
+[✔]观察一些面经。
+
+[day13-Todo]
+[*]Udacity Self Driving Car Engineer Nanodegree
+[*]review the leetcode questions tagged as: array, string, tree, linkedlist, and math
+[*]check out some Hackathons,https://www.creatingrealityhack.com/
+[*]networking, meetup/eventbrite
+[*]Readings: CtCl, Data Structure, Ch2
+[*]Readings: 5 tech reviews
+[*]Job Application +5, Referral/Recommendation +5
+[*]Web App using Google Poly API
+[*]Gym, 45min
+
+[day14-Todo]
+[*]Machine Learning Preparation: concepts such as bias-variance trade-off, overfitting, gradient descent, L1/L2 regularization，Bayes Theorem，bagging/boosting，collaborative filtering，dimension reduction
