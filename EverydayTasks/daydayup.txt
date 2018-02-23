@@ -25,8 +25,42 @@
 [✔]Udacity Self Driving Car Engineer Nanodegree
 [✔]CtCl, Ch3, Ch4
 
-[day15-ToDo]
-[*]Leetcode: tree +5, math +5, dp +5
-[*]Udacity Self Driving Car Engineer Nanodegree
-[*]CtCl, Ch5, Ch6
-[*]Get ready for Google Coding sample
+[day15-Done]
+[✔]Leetcode: tree +5, math +5, dp +5
+[✔]Udacity Self Driving Car Engineer Nanodegree
+[✔]CtCI, Ch5, Ch6
+[✔]Get ready for Google Coding sample
+[✔]Networking on Linkedin
+[✔]Join meetups and sign up for events on eventbrite
+
+[day16-Done]
+[✖]Parallel Computing Concepts Review
+[✔]Udacity Self Driving Car Engineer Nanodegress, Lession 13, Transfer Learning
+[✔]Get ready for Google Coding sample
+[✔]CtCI, Ch 7
+
+[day17-Done]
+[✔]Parallel Computing Review： CUDA.
+[✔]Udacity Self Driving Car Engineer Nanodegress, Start to work the Project 3, Behavioral Cloning .
+[✔]Get ready for Google Coding sample.
+[✔]CtCI, Ch 8.
+[✔]Elliptical for 25 min, Cycling for 25 min
+
+[★]The Coffee Machine has just arrived!
+
+[day18-ToDo]
+[*]Brew a cup of fresh coffee!
+[*]Cycling for 25 min,  Ellipticalfor 25 min.
+[*]Udacity Self Driving Car Engineer Nanodegree, Work on the Project 3, Behavioral Cloning.
+[*]CtCI, Ch 9.
+[*]Job Application +5.
+[*]Leetcode: Tagged under "google" +10. https://discuss.leetcode.com/tags/google
+[*]Leetcode: Tree +5, Trie, +5, Graph +5.
+
+[★]Something fun to do when bored: Learn the cup beat. https://www.youtube.com/watch?v=cmSbXsFE3l8
+
+[*]Leetcode, Hash Table +5, Two Pointers +5, Binary Search +5
+[*]Leetcode, Divide and Conquer +5, Backtracking +5, Stack +5
+[*]Leetcode, Heap +4, Greedy +4, Sort +5.
+[*]Leetcode, Bit Manupulation +5, 	
+[★]Plan a trip to Scotland
