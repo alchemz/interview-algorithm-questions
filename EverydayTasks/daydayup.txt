@@ -19,7 +19,14 @@
 [✖]Web App using Google Poly API
 [✔]Gym, 45min
 
-[day14-Todo]
-[*]Machine Learning Review: concepts such as bias-variance trade-off, overfitting, gradient descent, L1/L2 regularization，Bayes Theorem，bagging/boosting，collaborative filtering，dimension reduction
+[day14-Done]
+[✔]Machine Learning Review: concepts such as bias-variance trade-off, overfitting, gradient descent, L1/L2 regularization，Bayes Theorem，bagging/boosting，collaborative filtering，dimension reduction
+[✖]Leetcode: tree +5, math +5, dp +5
+[✔]Udacity Self Driving Car Engineer Nanodegree
+[✔]CtCl, Ch3, Ch4
+
+[day15-ToDo]
 [*]Leetcode: tree +5, math +5, dp +5
 [*]Udacity Self Driving Car Engineer Nanodegree
+[*]CtCl, Ch5, Ch6
+[*]Get ready for Google Coding sample
