@@ -1,1 +1,35 @@
 Lesson 13 Notes
+
+- If the new data set is small and similar to the original training data:
+* slice off the end of the neural network
+* add a new fully connected layer that matches the number of classes in the new data set
+* randomize the weights of the new fully connected layer; freeze all the weights from the pre-trained network
+* train the network to update the weights of the new fully connected layer
+
+If the new data set is small and different from the original training data:
+* slice off most of the pre-trained layers near the beginning of the network
+* add to the remaining pre-trained layers a new fully connected layer that matches the number of classes in the new data set
+* randomize the weights of the new fully connected layer; freeze all the weights from the pre-trained network
+* train the network to update the weights of the new fully connected layer
+
+-if the new data set is large and similar to the original training data:
+* remove the last fully connected layer and replace with a layer matching the number of classes in the new data set
+* randomly initialize the weights in the new fully connected layer
+* initialize the rest of the weights using the pre-trained weights
+* re-train the entire neural network
+
+Overfitting is not as much of a concern when training on a large data set; therefore, you can re-train all of the weights.
+
+
+- If the new data set is large and different from the original training data:
+* remove the last fully connected layer and replace with a layer matching the number of classes in the new data set
+* retrain the network from scratch with randomly initialized weights
+* alternatively, you could just use the same strategy as the "large and similar" data case
+
+Even though the data set is different from the training data, initializing the weights from the pre-trained network might make training faster. So this case is exactly the same as the case with a large, similar data set.
+
+- AlexNet Architecture
+
+- Transfer Learning with TensorFlow
+* feature extraction
+- finetuning
