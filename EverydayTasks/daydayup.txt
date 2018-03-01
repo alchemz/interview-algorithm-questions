@@ -73,10 +73,21 @@ day20-Done]
 [✔]Leetcode: Tagged under "google" +10.
 [✔]Leetcode: DP +3, Recursion +3, Design/Data Structure +3, HashTable +3, Greedy +3. ​​​​
 
-[day20-Todo]
-[*]Unity IBM Watson SDK Test on HTC Vive
-[*]CtCI, Ch 10.
-[*]Job Application +10.
+[day21-Done]
+[✖]Amazon networking, did not get the ticket
+[✔]Pramp Coding Interview Practise
+[✔]Leetcode: 791, 790, 789, 788, 787
+[✔]CtCI Ch10 ​​​​
+[✔]Review for all standard containers' structures. 
+
+[day22-Done]
+[✖]Unity IBM Watson SDK Test on HTC Vive
+[✔]CtCI, Ch 11.
+[✔]Job Application +20.
+[✔]Review for Google Phone Screen.
+[✔]Sign up for Udacity Intersect 2018
+[✔]Leetcode: Bit +2, Binary Search +2, Divide and Conquer +2, Simulation +2, String +2. 
+
 [*]Leetcode: Tagged under "google" +10.
 [*]Leetcode, DP +3, Recursion +3, Design/Data Structure +3, HashTable +3, Greedy +3.
 [*]Leetcode, Divide and Conquer +5, Backtracking +5, Stack +5
