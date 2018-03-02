@@ -1,0 +1,23 @@
+container adaptor
+------------------------------
+stack:LIFO
+- empty
+- size
+- back
+- push_back
+- pop_back
+
+queue:FIFO
+- empty
+- size
+- front
+- back
+- push_back
+- pop_front
+
+priority_queue:
+- empty
+- size
+- front
+- push_back
+- pop_back
