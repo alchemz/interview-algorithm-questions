@@ -1,0 +1,36 @@
+day20-Done]
+[✖]CtCI, Ch 10.
+[✔]Job Application +10.
+[✔]Leetcode: Tagged under "google" +10.
+[✔]Leetcode: DP +3, Recursion +3, Design/Data Structure +3, HashTable +3, Greedy +3. ​​​​
+
+[day21-Done]
+[✖]Amazon networking, did not get the ticket
+[✔]Pramp Coding Interview Practise
+[✔]Leetcode: 791, 790, 789, 788, 787
+[✔]CtCI Ch10 ​​​​
+[✔]Review for all standard containers' structures. 
+
+[day22-Done]
+[✖]Unity IBM Watson SDK Test on HTC Vive
+[✔]CtCI, Ch 11.
+[✔]Job Application +20.
+[✔]Review for Google Phone Screen.
+[✔]Sign up for Udacity Intersect 2018
+[✔]Leetcode: Bit +2, Binary Search +2, Divide and Conquer +2, Simulation +2, String +2. 
+
+[day23-Todo]
+[*]HERE Tech HR Talk
+[*]Pramp Mock Coding Interview
+[*]Review for Google Phone Screen
+[*]Referral +5, Job Application +20;
+[*]Leetcode: Geometry +2, Math, +2, Linked List +2, Greedy +2, HachTable +2.
+[*]CtCI, Ch 12
+
+[day24-Todo]
+[*]CtCI, Ch 13
+[*]Leetcode review: easy +10
+[*]Computer Vision review
+[*]Udacity CarND, Behavioral Cloning
+[*]Schedule for next week's interview
+[*]Edit resume
