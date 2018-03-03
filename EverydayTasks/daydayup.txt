@@ -111,13 +111,3 @@ day20-Done]
 [*]Leetcode, Bit Manupulation +5, 	
 [★]Plan a trip to Scotland
 
-A few things need to be updated for the code.
-ValueError: Only call `sparse_softmax_cross_entropy_with_logits` with named arguments (labels=..., logits=..., ...)
-1. logits = logits, labels = labels
-WARNING:tensorflow:From train_feature_extraction.py:49: arg_max (from tensorflow.python.ops.gen_math_ops) is deprecated and will be removed in a future version.
-Instructions for updating:
-Use `argmax` instead
-2. arg_max -> argmax
-
-conda update conda
-conda install accelerate
