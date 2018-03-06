@@ -1,0 +1,2 @@
+https://www.ibm.com/developerworks/aix/tutorials/au-memorymanager/index.html
+https://www.codeproject.com/Articles/1180826/Writing-Our-Own-Simple-Memory-Manager-In-C-Cpluspl
