@@ -1,2 +1,9 @@
 https://www.ibm.com/developerworks/aix/tutorials/au-memorymanager/index.html
 https://www.codeproject.com/Articles/1180826/Writing-Our-Own-Simple-Memory-Manager-In-C-Cpluspl
+https://www.geeksforgeeks.org/program-best-fit-algorithm-memory-management/
+
+https://docs.microsoft.com/en-us/cpp/mfc/memory-management
+
+http://cplusplus.wikidot.com/cn:memory-management
+
+https://chenqx.github.io/2014/09/25/Cpp-Memory-Management/
